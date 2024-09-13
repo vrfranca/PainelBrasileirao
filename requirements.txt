@@ -10,3 +10,4 @@ locale
 numpy
 json
 plotly.graph_objects
+openpyxl
