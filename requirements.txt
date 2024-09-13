@@ -1,6 +1,6 @@
 streamlit
 streamlit-option-menu
-streamlit_chat
+load_dotenv
 langchain
 sentence_transformers
 pinecone-client
