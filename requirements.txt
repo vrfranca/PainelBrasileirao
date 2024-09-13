@@ -1,6 +1,6 @@
 streamlit
 streamlit-option-menu
-load_dotenv
+dotenv
 plotly.express
 unidecode
 os
@@ -10,4 +10,3 @@ locale
 numpy
 json
 plotly.graph_objects
-openpyxl
