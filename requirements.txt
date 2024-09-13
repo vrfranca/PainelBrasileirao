@@ -1,4 +1,4 @@
 streamlit
-streamlit-option-menu
-dotenv
-json
+from streamlit_option_menu import option_menu
+os
+from dotenv import load_dotenv
