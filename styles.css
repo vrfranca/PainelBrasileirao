@@ -1,0 +1,31 @@
+/* Customizando a pagina inicial */
+
+/* Oculta todo o cabeçalho das páginas */
+.st-emotion-cache-12fmjuu{
+    display: none;
+}
+
+#e1be8e86{
+    text-align: left;
+}
+
+.st-emotion-cache-asc41u{
+    text-align: center;
+}
+
+.st-emotion-cache-z1fhwk{
+    text-align: right;
+    color:#1404f7;
+}
+
+.dataframe {
+    font-size: 12px;
+}
+.dataframe th {
+    text-align: center;
+}
+
+.custom-divider {
+    border-top: 1px solid #1404f7; /* Substitua #FF5733 pela cor desejada */
+    margin: 20px 0;
+}
