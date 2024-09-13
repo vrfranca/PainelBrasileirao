@@ -2,3 +2,5 @@ streamlit==1.35.0
 streamlit-option-menu==0.3.13
 load-dotenv==0.1.0
 python-dotenv==0.21.0
+plotly==5.9.0
+tenacity>=6.2.0
