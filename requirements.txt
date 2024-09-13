@@ -7,3 +7,9 @@ tenacity>=6.2.0
 unidecode==1.2.0
 openpyxl==3.0.10
 et_xmlfile==1.1.0
+pandas==2.0.3
+python-dateutil>=2.8.2
+pytz>=2020.1
+tzdata>=2022.1
+numpy>=1.21.0
+six>=1.5
