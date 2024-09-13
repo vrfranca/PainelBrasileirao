@@ -2,6 +2,6 @@ streamlit
 streamlit-option-menu
 load_dotenv
 plotly.express
-sentence_transformers
+unidecode
 pinecone-client
 openai==0.28
