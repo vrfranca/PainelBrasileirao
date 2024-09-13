@@ -73,7 +73,7 @@ def app():
     st.markdown('<div class="custom-divider"></div>', unsafe_allow_html=True)
 
     # Define o locale para português (Brasil)
-    locale.setlocale(locale.LC_TIME, "pt_BR.utf8")  # Para sistemas Linux/Unix
+    # locale.setlocale(locale.LC_TIME, "pt_BR.utf8")  # Para sistemas Linux/Unix
     # locale.setlocale(locale.LC_TIME, "Portuguese_Brazil.1252")  # Para sistemas Windows
 
     # Obtém a data e hora atual
